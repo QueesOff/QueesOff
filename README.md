@@ -27,14 +27,12 @@
 
 class About extends Me {
   const myTools = {
-    "ProgramingLanguages" : { "Javascript", "Typescript"},
-    "Stacks" : { "NextJS", "React", "ReactNative", "IonicReact", "NodeJS" },
-    "Styles" : { "SCSS", "Tailwind", "ShadcnUI", "MUI", "AntD", "ChakraUI" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json" },
-    "Database" : { "Firebase", "MongoDB", "MySQL" },
+    "ProgramingLanguages" : { "Javascript", "Typescript", "Rust", "Kotlin" },
+    "Stacks" : { "NextJS", "ReactNative", "IonicReact", "NestJS" },
+    "Styles" : { "Tailwind", "ShadcnUI" },
+    "Database" : { "Firebase", "MongoDB", "MySQL", "SQLite" },
     "Editors" : { "Vscode", "Xcode", "AndroidStudio" },
     "Platforms" : { "Mac", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Lightroom" }
   };
 }
 ```
